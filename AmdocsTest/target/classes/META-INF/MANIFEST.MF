@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Java_Coding_Test
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Priyanka.Chauhan
+Implementation-Vendor-Id: com.amdocs.challenge.test
+Build-Jdk: 1.8.0_171
+Implementation-URL: http://projects.spring.io/spring-boot/Amdocs_Test/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
